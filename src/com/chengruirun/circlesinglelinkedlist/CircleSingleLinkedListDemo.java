@@ -38,7 +38,7 @@ class CircleSingleLinkedList{
         while (true){
             System.out.println(curBoy.getNo());
             if(curBoy.getNext() == first){
-                System.out.println("11111111111111");
+                System.out.println("11112211111");
                 break;  //说明遍历完毕
             }
             curBoy=curBoy.getNext();
